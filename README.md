@@ -50,10 +50,10 @@ The project contains the following:
 - Data visualization and insights
 
 # Notable Insights
-- Data Engineer was the most commonly observed job title in the selected data set, where Data Scientist came in second and Data Analyst followed in third regarding common job titles.
+- Data Engineer was the most commonly observed job title in the selected dataset, where Data Scientist came in second and Data Analyst followed in third regarding common job titles.
 - Data Science Manager and Applied Scientist had the highest average annual salaries among job titles with at least 20 observations in the dataset.
 - Higher annual salaries were associated with higher experience levels as presented in the dataset.
 - In comparing all three work models, on-site employees earned the highest average salaries compared to those who worked remote or hybrid positions. Remote occupations earned a little less than on-site positions, whereas hybrid workers earned significantly less than both on-site and remote occupations.
-- Over time, average salaries would see an increase from 2020-2023, yet the number of observations differed significantly by year.
+- Over time, average salaries increased from 2020-2023, yet the number of observations differed significantly by year.
 
 These results showcase trends within the dataset and should not be evaluated as representing the overall market for data-related positions.
